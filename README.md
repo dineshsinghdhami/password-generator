@@ -6,10 +6,10 @@ A simple **Password Generator** made using **HTML, CSS, and JavaScript**.
 
 ## ⚙️ Features
 
-- 🔠 Uppercase & lowercase letters  
-- 🔢 Numbers & symbols  
-- ⚡ Instant password generation  
-- 💻 Minimal, clean UI  
+- 🔠 Uppercase & lowercase letters
+- ⚡ Instant password generation
+- 💻 Minimal, clean UI    
+- 🔢 Numbers & symbols
 
 ---
 
@@ -19,29 +19,31 @@ A simple **Password Generator** made using **HTML, CSS, and JavaScript**.
 
 ---
 
-## 🧠 How to Use
+## 📁 Project Structure
 
-1. Open the app in your browser.  
-2. Click **Generate Password**.  
-3. View your new password in the text box.
- 
----
-
-## 🛠️ Built With
-
-- **HTML**  
-- **CSS**   
-- **JavaScript**   
+```
+password-generator/
+│
+├── index.html
+├── style.css
+├── script.js
+└── screenshot.png
+```
 
 ---
 
-## 👨‍💻 Author
+## 🛠️ Technologies Used
 
-**Dinesh Singh Dhami**  
-🌐 [Visit My Website](https://www.dineshsinghdhami.com.np)
+| Technology | Badge |
+|------------|-------|
+| HTML      | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white) |
+| CSS       | ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) |
+| JavaScript | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | 
 
 ---
 
 ## ©️ Copyright
 
-All rights reserved © 2025 **Dinesh Singh Dhami**
+- All rights reserved © 2025 **[Dinesh Singh Dhami](https://www.dineshsinghdhami.com.np)**
+- This project is licensed for personal and educational use.
+- For commercial use or redistribution, please contact the owner.
